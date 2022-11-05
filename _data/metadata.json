@@ -2,9 +2,9 @@
   "title": "Migi Patel",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Hello! My name is Migi Patel and I am sharing my journey in Robotics and Software Engineering.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Hello! My name is Migi Patel and I am sharing my journey in Robotics and Software Engineering.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
