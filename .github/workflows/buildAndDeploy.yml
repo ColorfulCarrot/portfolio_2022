@@ -33,3 +33,4 @@ jobs:
       - name: Upload files to S3 with AWS CLI
         run: |
           aws s3 sync _site/ s3://${{ secrets.S3_BUCKET }} --delete 
+          aws cloudfront create-invalidation --distribution-id E3O55X3O04CBQW --paths "/*"
