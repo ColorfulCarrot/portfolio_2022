@@ -49,9 +49,8 @@ You will need to create an AWS account for this part. You can sign up for the fr
 NOTE: only certain top-level domains (TLDs) can be used to register domains with AWS (the TLD is what follows after the final dot of the domain name, ex. .com and .net)
 
 ### Part 2: Create a bucket on Amazon S3
-<img src = "/img/createWebsitePost/editStaticHostingWebsite.png" />
-
-<img src = "/img/createWebsitePost/editBucketPolicy.png" />
+<img src = "/img/createWebsitePost/editStaticHostingWebsite.png" /> <br>
+<img src = "/img/createWebsitePost/editBucketPolicy.png" /> <br>
 
 ### Part 3: Setting up the SSL Certificate
 Go back to the AWS console and search for Certificate Manager. Click <strong> Request a Certificate </strong>
