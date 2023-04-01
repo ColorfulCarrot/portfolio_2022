@@ -53,6 +53,8 @@ p,
 .tmpl-post li,
 img {
   max-width: device-width; /* 600px /16 */
+  max-width: 50em; /* 600px /16 */
+  margin: auto
 }
 p,
 .tmpl-post li {
@@ -68,12 +70,16 @@ a[href]:visited {
 
 main {
   padding: 1rem;
+  max-width: 50em; /* 600px /16 */
+  margin: auto
 }
 main :first-child {
   margin-top: 0;
 }
 header {
   border-bottom: 1px dashed var(--color-gray-20);
+  max-width: 60em; /* 600px /16 */
+  margin: auto
 }
 header:after {
   content: "";

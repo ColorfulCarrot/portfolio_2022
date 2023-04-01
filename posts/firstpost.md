@@ -10,7 +10,7 @@ layout: layouts/post.njk
 Hello everyone, welcome to my first blog post! I am super excited to share how I made this website using AWS, Eleventy, and Google Domains.
 
 ## Fundamentals
-What is a static website?
+What is a <strong>static website</strong>?
 A website with fixed content
 
 What is a domain name?
