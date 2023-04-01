@@ -52,7 +52,7 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  max-width: device-width; /* 600px /16 */
 }
 p,
 .tmpl-post li {
