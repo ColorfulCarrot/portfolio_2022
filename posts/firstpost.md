@@ -14,7 +14,7 @@ What is a static website?
 A website with fixed content
 
 What is a domain name?
-The domain name is the website address, for example google.com. However, computers will interpret the domain name through a series of numbers called the IP address. To translate the text-based domanin name to the IP address the DNS (Domain Name System) is used. A good reference for understanding this concept is this AWS video: https://www.youtube.com/watch?time_continue=5&v=e2xLV7pCOLI&source_ve_path=MjM4NTE&feature=emb_title . 
+The domain name is the website address, for example Google.com. However, computers will interpret the domain name through a series of numbers called the IP address. To translate the text-based domanin name to the IP address the DNS (Domain Name System) is used. A good reference for understanding this concept is this AWS video: [What is DNS? - Introduction to Domain Name System](https://www.youtube.com/watch?time_continue=5&v=e2xLV7pCOLI&source_ve_path=MjM4NTE&feature=emb_title) . 
 
 ## Setting up the Development Environment
 I prefer developing in the Ubuntu environment so I used Ubuntu 18.04 on WSL.
