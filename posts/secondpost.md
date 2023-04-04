@@ -1,12 +1,12 @@
 ---
-title: Using WSL
-description: A walkthrough of how to set up WSL
-date: 2023-03-31
+title: AWS Account Best Practices
+description: Best practices for AWS accounts
+date: 2023-04-03
 tags:
   - WSL
 layout: layouts/post.njk
 ---
-Hello everyone, welcome to my first blog post! I am super excited to share how I made this website using AWS, Eleventy, and Google Domains.
+Hello everyone, in this post I will review how to create an AWS account and what the best practices are.
 
 ## Fundamentals
 
