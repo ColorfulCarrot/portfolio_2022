@@ -4,6 +4,18 @@ eleventyNavigation:
   key: Home
   order: 1
 ---
+<h2> <span style="color:var(--color-pink)"> Hey there, I'm Migi! </span></h2>
+<p>I am a Robotics Software Engineer with a passion for learning new things. Currently pursuing 
+a Master's degree in machine learning, I'm fascinated by the world of artificial intelligence and 
+its endless possibilities. </p>
+<br>
+<p>When I'm not immersed in academics or work, you'll often find me traveling, exploring nature,
+crafting, baking, or at a bookstore! I also have a love for animation and art and enjoy watching animated shows,
+and playing video games.</p> 
+
+<br><img src = '/img/me/meNy2023.jpeg' class='center'/> <br>
+
+
 {% set maxPosts = collections.posts.length | min(3) %}
 <h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
 

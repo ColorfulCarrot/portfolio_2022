@@ -1,21 +1,21 @@
 {
   "title": "Migi Patel",
-  "url": "https://example.com/",
+  "url": "https://migipatel.dev/",
   "language": "en",
   "description": "Hello! My name is Migi Patel and I am sharing my journey in Robotics and Software Engineering.",
   "feed": {
     "subtitle": "Hello! My name is Migi Patel and I am sharing my journey in Robotics and Software Engineering.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://migipatel.dev/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://migipatel.dev/feed/feed.json"
   },
   "author": {
     "name": "Migi Patel",
     "email": "mugdhappatel@gmail.com",
-    "url": "https://example.com/about-me/"
+    "url": "https://migipatel.dev/"
   }
 }
