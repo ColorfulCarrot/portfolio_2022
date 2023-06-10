@@ -37,7 +37,6 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: device-width; /* 600px /16 */
   max-width: 50em; /* 600px /16 */
   max-height: auto;
   margin: auto;
