@@ -8,8 +8,9 @@
 :root {
   --color-navy: rgb(64, 63, 110);
   --color-pink: rgb(255, 182, 231);
+  --color-lightPink: rgb(231, 191, 225);
 
-  --background-color: rgb(215, 255, 205);
+  --background-color: rgb(225, 253, 218);
 
   --text-color: rgb(64, 63, 110);
   --text-color-link:rgb(64, 63, 110);
@@ -38,7 +39,8 @@ p,
 img {
   max-width: device-width; /* 600px /16 */
   max-width: 50em; /* 600px /16 */
-  margin: auto
+  max-height: auto;
+  margin: auto;
 }
 p,
 .tmpl-post li {
@@ -253,5 +255,7 @@ a[href].direct-link:focus:visited,
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 60%;
+  border: 5px solid var(--color-lightPink);
+  border-radius: 25px;
 }
